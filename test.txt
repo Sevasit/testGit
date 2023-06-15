@@ -1,4 +1,8 @@
 fsgsdgdgd
+<<<<<<< HEAD
 New
 Sevasit
 Senpradit
+=======
+kan kaewkamol
+>>>>>>> devpls
