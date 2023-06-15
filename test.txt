@@ -1,14 +1,21 @@
 fsgsdgdgd
 kit
 New
+<<<<<<< HEAD
 Sevasit
 Senpradit
 kan kaewkamol
 Fluck
 Senpradit
 Tanny
+<<<<<<< HEAD
+=======
+Sevasit
+>>>>>>> Sevasit
+=======
 Fluck
 Senpradit
 Tanny
 usa 
 
+>>>>>>> f867c817ffbc88bfc64a74a8556c9d3cfe0a9626
