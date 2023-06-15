@@ -1,9 +1,5 @@
 fsgsdgdgd
-<<<<<<< HEAD
 New
 Sevasit
 Fluck
 
-=======
-Fluckkkkkkkkk
->>>>>>> b6e0b47 (add name)
