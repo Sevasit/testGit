@@ -1,7 +1,11 @@
 fsgsdgdgd
 kit
 New
+<<<<<<< HEAD
 Sevasit
 Fluck
 Senpradit
 Tanny
+=======
+Sevasit
+>>>>>>> Sevasit
